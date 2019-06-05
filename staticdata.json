@@ -1,0 +1,36 @@
+{
+    "cells" : [
+        {
+            "title":"Intro to figma",
+            "image":"https://www.dropbox.com/s/eqwo7s6389z0nup/logo-figma.png?raw=1"
+        },
+        {
+            "title":"Intro to framer",
+            "image":"https://www.dropbox.com/s/ckffn0gtaq0c0ae/logo-framer.png?raw=1"
+        },
+        {
+            "title":"Intro to invision",
+            "image":"https://www.dropbox.com/s/ql6djjyjrgjljoo/logo-invision.png?raw=1"
+        },
+        {
+            "title":"Intro to react",
+            "image":"https://www.dropbox.com/s/o80yt5qtqmw97hk/logo-react.png?raw=1"
+        },
+        {
+            "title":"Intro to sketch",
+            "image":"https://www.dropbox.com/s/kr0aerfxyqzaidv/logo-sketch.png?raw=1"
+        },
+        {
+            "title":"Intro to studio",
+            "image":"https://www.dropbox.com/s/jhzl0ad1fccmjgm/logo-studio.png?raw=1"
+        },
+        {
+            "title":"Intro to swift",
+            "image":"https://www.dropbox.com/s/l91hqg6crije29a/logo-swift.png?raw=1"
+        },
+        {
+            "title":"Intro to xcode",
+            "image":"https://www.dropbox.com/s/xq3plh0c21nru57/logo-xcode.png?raw=1"
+        }
+    ]
+}
